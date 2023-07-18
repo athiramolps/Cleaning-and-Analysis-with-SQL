@@ -1,0 +1,27 @@
+Employee_ID,First_Name,Last_Name,SSN,Birth_Date,Sex,Address,Job_ID,Salary,Department_ID,Department_Name,Location_ID,Start_Date,Job_Title,Minimum_Salary,Maximum_Salary
+1,John,Smith,123-45-678,1985-06-15,M,"123 Main St, City",101,50000,1,Marketing,1,2019-01-15,Marketing Manager,45000,70000
+2,Emily,Johnson,987-65-432,1990-09-20,F,"456 Oak Ave, City",102,40000,1,Marketing,1,2020-03-10,Marketing Analyst,35000,55000
+3,David,Brown,567-89-012,1988-03-12,M,"789 Elm St, City",103,45000,1,Marketing,1,2021-06-05,Marketing Specialist,40000,60000
+4,Sarah,Davis,234-56-789,1992-11-25,F,"321 Pine Ave, City",104,55000,1,Marketing,1,2018-08-01,Marketing Coordinator,50000,70000
+5,Michael,Miller,876-54-321,1987-07-10,M,"654 Maple Dr, City",105,60000,1,Marketing,1,2017-12-20,Marketing Assistant,55000,75000
+6,Olivia,Wilson,901-23-456,1991-05-05,F,"987 Oak Ave, City",201,70000,2,Sales,2,2019-02-28,Sales Manager,65000,90000
+7,Ethan,Anderson,345-67-890,1989-08-18,M,"654 Elm St, City",202,50000,2,Sales,2,2020-05-12,Sales Representative,45000,65000
+8,Mia,Martinez,890-12-345,1993-02-28,F,"321 Pine Ave, City",203,45000,2,Sales,2,2021-08-25,Sales Associate,40000,60000
+9,James,Thompson,678-90-123,1986-04-30,M,"987 Oak Ave, City",204,55000,2,Sales,2,2018-10-15,Sales Analyst,50000,70000
+10,Ava,Garcia,210-43-567,1994-01-05,F,"654 Elm St, City",205,60000,2,Sales,2,2017-11-30,Sales Coordinator,55000,75000
+11,William,Lee,876-54-321,1987-07-10,M,"789 Main St, City",301,60000,3,Design,3,2019-04-18,Design Manager,55000,80000
+12,Harper,Rodriguez,901-23-456,1991-05-05,F,"123 Oak Ave, City",302,50000,3,Design,3,2020-07-01,Graphic Designer,45000,65000
+13,Benjamin,Wright,345-67-890,1989-08-18,M,"456 Elm St, City",303,45000,3,Design,3,2021-09-14,UI/UX Designer,40000,60000
+14,Evelyn,Clark,890-12-345,1993-02-28,F,"789 Pine Ave, City",304,55000,3,Design,3,2018-12-05,Web Designer,50000,70000
+15,Samuel,Adams,678-90-123,1986-04-30,M,"123 Elm St, City",305,60000,3,Design,3,2017-10-20,Design Assistant,55000,75000
+16,Sophia,Lewis,432-10-987,1987-06-25,F,"456 Maple Dr, City",401,70000,4,Development,4,2019-03-10,Development Manager,65000,90000
+17,Noah,Hill,654-32-109,1992-09-15,M,"654 Maple Dr, City",402,50000,4,Development,4,2020-06-05,Senior Developer,45000,70000
+18,Isabella,Turner,109-87-654,1995-12-03,F,"987 Oak Ave, City",403,45000,4,Development,4,2021-09-28,Frontend Developer,40000,65000
+19,Liam,Scott,543-21-098,1990-08-20,M,"321 Elm St, City",404,55000,4,Development,4,2018-11-10,Backend Developer,50000,75000
+20,Charlotte,Baker,908-76-543,1994-04-12,F,"654 Pine Ave, City",405,60000,4,Development,4,2017-10-01,Full Stack Developer,55000,80000
+21,Oliver,King,321-09-876,1988-03-05,M,"123 Oak Ave, City",501,60000,5,Analytics,5,2019-07-22,Analytics Manager,55000,80000
+22,Amelia,Cooper,654-98-210,1993-06-30,F,"456 Elm St, City",502,50000,5,Analytics,5,2020-10-12,Data Analyst,45000,70000
+23,Henry,Stewart,012-34-567,1989-09-25,M,"789 Maple Dr, City",503,45000,5,Analytics,5,2021-12-03,Business Intelligence,40000,65000
+24,Harper,Bailey,678-90-123,1992-07-15,F,"123 Main St, City",504,55000,5,Analytics,5,2018-09-17,Data Scientist,50000,75000
+25,Alexander,Reed,901-23-456,1996-01-08,M,"456 Oak Ave, City",601,70000,6,Social Media,6,2019-11-25,Social Media Manager,65000,90000
+26,Sofia,Phillips,567-89-012,1991-04-02,F,"789 Pine Ave, City",602,60000,6,Social Media,6,2020-12-15,Social Media Specialist,55000,80000
