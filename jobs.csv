@@ -1,0 +1,27 @@
+Job_ID,Job_Title,Minimum_Salary,Maximum_Salary
+101,Marketing Manager,45000,70000
+102,Marketing Analyst,35000,55000
+103,Marketing Specialist,40000,60000
+104,Marketing Coordinator,50000,70000
+105,Marketing Assistant,55000,75000
+201,Sales Manager,65000,90000
+202,Sales Representative,45000,65000
+203,Sales Associate,40000,60000
+204,Sales Analyst,50000,70000
+205,Sales Coordinator,55000,75000
+301,Design Manager,55000,80000
+302,Graphic Designer,45000,65000
+303,UI/UX Designer,40000,60000
+304,Web Designer,50000,70000
+305,Design Assistant,55000,75000
+401,Development Manager,65000,90000
+402,Senior Developer,45000,70000
+403,Frontend Developer,40000,65000
+404,Backend Developer,50000,75000
+405,Full Stack Developer,55000,80000
+501,Analytics Manager,55000,80000
+502,Data Analyst,45000,70000
+503,Business Intelligence,40000,65000
+504,Data Scientist,50000,75000
+601,Social Media Manager,65000,90000
+602,Social Media Specialist,55000,80000
